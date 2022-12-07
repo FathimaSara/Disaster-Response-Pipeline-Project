@@ -2,11 +2,12 @@
 ## Table of Contents
 1. [ Introduction ](#intro)
 2. [ Installation ](#installation)
-3. [ Instructions ](#instructions")
+3. [ Instructions ](#instructions)
 4. [ Acknowledgements ](#acknowledgements)
 
 <a name="intro"></a>
 ## 1. Introduction
+The purpose of the project is to build a model for an API that classifies disaster messages. Using the web app we can input a new message and get classification results in several categories so to have an idea what kind of help is needed.
 
 
 <a name="installation"></a>
